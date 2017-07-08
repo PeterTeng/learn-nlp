@@ -55,5 +55,5 @@ import book data
 numpy and matplotlib required
 
 ```python
-print(text4.dispersion_plot(["citizens", "freedom", "war", "terrorist", "love", "America"]))
+>>> text4.dispersion_plot(["citizens", "freedom", "war", "terrorist", "love", "America"])
 ```
